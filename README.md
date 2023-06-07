@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @DillonKing
+- 👀 I’m interested in learning how to develop and build games in a team or not.
+- 🌱 I’m currently learning Game Dev.
+- 💞️ I’m looking to collaborate on building games/levels.
+- 📫 How to reach me dillon.aubrey.king@gmail.com.
